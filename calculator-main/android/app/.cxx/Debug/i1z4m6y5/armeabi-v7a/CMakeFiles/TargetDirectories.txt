@@ -1,0 +1,2 @@
+C:/Users/Asus/Downloads/calculatorapp/calculatorapp/android/app/.cxx/Debug/i1z4m6y5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Downloads/calculatorapp/calculatorapp/android/app/.cxx/Debug/i1z4m6y5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
